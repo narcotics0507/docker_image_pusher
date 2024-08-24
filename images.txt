@@ -1,2 +1,2 @@
 nginx
-openresty/openresty
+openresty/openresty:2.54.0
